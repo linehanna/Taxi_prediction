@@ -1,0 +1,35 @@
+#-- Datahantering & modellering
+pandas
+numpy
+scikit-learn
+joblib
+xgboost
+
+#-- Visualisering
+matplotlib
+seaborn
+plotly
+folium
+
+#-- API & Frontend
+fastapi
+pydantic
+uvicorn
+streamlit
+streamlit-folium
+openrouteservice
+requests
+
+#-- Utveckling och test
+ipykernel
+setuptools
+
+#-- Miljöhantering
+python-dotenv
+
+#-- Övrigt
+importlib-resources
+
+#-- Till 
+            #--  <-Installation i terminalen->
+#-- installera med hjäp av uv pip install -r requirements.txt

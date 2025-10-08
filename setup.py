@@ -6,9 +6,8 @@ setup(
     description = "This package contains taxipred app which will predict taxi prices",
     author = "Caroline",
     author_email= "author@email.com",
-    install_requires = ["streamlit", "pandas", "fastapi", "scikit-learn", "uvicorn"],
+    install_requires = ["streamlit", "pandas", "fastapi", "scikit-learn", "uvicorn", "ipykernel"],
     package_dir = {"": "src"},
     package_data = {"taxipred": ["data/*.csv"]},
     packages = find_packages()
 )
-
